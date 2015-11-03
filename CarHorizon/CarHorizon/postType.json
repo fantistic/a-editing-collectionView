@@ -1,0 +1,33 @@
+[
+    
+        {
+            "selectName": "全部帖子",
+            "selectId": 0,
+            
+        }
+        ,
+        {
+            "selectName": "置顶帖",
+            "selectId": 1,
+
+        }
+        ,
+
+       {
+       "selectName": "投票贴",
+            "selectId": 4,
+
+       },
+
+        {
+            "selectName": "活动帖",
+            "selectId": 3,
+
+        },
+        {
+            "selectName": "精华帖",
+            "selectId": 2,
+
+        }
+   
+]

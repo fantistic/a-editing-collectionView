@@ -1,0 +1,113 @@
+{
+    "confirmed": [
+                  {
+                  "title": "最新",
+                  "typeId": 1,
+                  "normal": 1
+                  }
+                  ],
+    "subscribed": [
+                   {
+                   "title": "新闻",
+                   "typeId": 2,
+                   "normal": 1
+                   },
+                   {
+                   "title": "导购",
+                   "typeId": 4,
+                   "normal": 1
+                   },
+                   {
+                   "title": "评测",
+                   "typeId": 3,
+                   "normal": 1
+                   },
+                   {
+                   "title": "行情",
+                   "typeId": 5,
+                   "normal": 1
+                   }
+                   ],
+    "notsubscribed": [
+                      {
+                      "title": "旅行游记",
+                      "typeId": 154980,
+                      "normal": 0
+                      },
+                      {
+                      "title": "新车上市",
+                      "typeId": 3,
+                      "normal": 0
+                      },
+                      {
+                      "title": "新车谍照",
+                      "typeId": 8,
+                      "normal": 0
+                      },
+                      {
+                      "title": "奇闻车事",
+                      "typeId": 1540,
+                      "normal": 0
+                      },
+                      {
+                      "title": "油价变动",
+                      "typeId": 1,
+                      "normal": 0
+                      },
+                      {
+                      "title": "多车对比",
+                      "typeId": 20,
+                      "normal": 0
+                      },
+                      {
+                      "title": "改装升级",
+                      "typeId": 83757,
+                      "normal": 0
+                      },
+                      {
+                      "title": "车辆召回",
+                      "typeId": 2,
+                      "normal": 0
+                      },
+                      {
+                      "title": "新技术",
+                      "typeId": 4,
+                      "normal": 0
+                      },
+                      {
+                      "title": "新能源车",
+                      "typeId": 6,
+                      "normal": 0
+                      },
+                      {
+                      "title": "激情赛车",
+                      "typeId": 33,
+                      "normal": 0
+                      },
+                      {
+                      "title": "SUV对比",
+                      "typeId": 76392,
+                      "normal": 0
+                      },
+                      {
+                      "title": "对比选车",
+                      "typeId": 28,
+                      "normal": 0
+                      },
+                      {
+                      "title": "购车技巧",
+                      "typeId": 76395,
+                      "normal": 0
+                      },
+                      {
+                      "title": "概念车",
+                      "typeId": 18534,
+                      "normal": 0
+                      },
+                      {
+                      "title": "汽车音响",
+                      "typeId": 985,
+                      "normal": 0
+                      }
+                      ]
+}

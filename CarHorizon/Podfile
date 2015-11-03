@@ -1,0 +1,8 @@
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'UMengSocial'
+pod 'MBProgressHUD'
+pod 'RESideMenu'
+pod 'DZNEmptyDataSet'

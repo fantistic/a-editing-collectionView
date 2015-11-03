@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="15B42" minimumToolsVersion="Automatic">
+    <entity name="FindCarDic" representedClassName="FindCarDic" syncable="YES">
+        <attribute name="seriesIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="seriesId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="seriesName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="seriesPrice" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Forum" representedClassName="Forum" syncable="YES">
+        <attribute name="forumId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="forumName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="HotPost" representedClassName="HotPost" syncable="YES">
+        <attribute name="forumName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hasImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="postId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="postTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="postType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="replyCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="replyDate" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Forum" positionX="-63" positionY="36" width="128" height="75"/>
+        <element name="HotPost" positionX="-63" positionY="-18" width="128" height="150"/>
+        <element name="FindCarDic" positionX="-63" positionY="36" width="128" height="105"/>
+    </elements>
+</model>
